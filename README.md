@@ -1,32 +1,20 @@
-# Company Home Page
+# Jedi Academy Company Homepage
+A challenge project completed as part of Codecademy's course on HTML and CSS using Flexbox.
 
+## Overview
+This project represents the homepage of the prestigious Jedi Academy. It provides an overview of the academy, its training programs, and its Jedi Masters.
 
-# Instructions
-2.
-You’re going to build a company homepage for a real or imagined company. You’ll get to decide exactly what content to include for this company, but you should at least include:
+## Features
+Responsive Design: The homepage is built using Flexbox, ensuring that the layout adjusts and looks great on all device sizes.
+Jedi Master Profiles: Profiles of the leading Jedi Masters, showcasing their skills and achievements.
+Training Programs: An overview of the various Jedi training programs offered by the academy.
+Upcoming Events: A section detailing upcoming events and missions.
 
-A title and logo or splash image.
-A mission statement or brief description of the company.
-A list or set of images and titles representing the product or products of the company.
-A section describing some of the company’s employees or teammates.
-If you want, you can tour our example site for inspiration or to see how we used flexbox. Your site will probably look very different from ours, and that’s great!
+## Technologies Used
+HTML5: For structuring the content.
+CSS3 with Flexbox: For styling and layout.
 
-3.
-Your project should use flexbox styling for layout. Aim to use flexbox’s advantages, such as easy horizontal and vertical positioning, flexible element flows as the page size changes, and great styling for repeated elements.
+## Credits
+This project was developed by Javier Cordero as part of a challenge project on Codecademy.
 
-In our example project, we used flexbox to:
-
-Create a centered navbar at the top of the page.
-Create a flexible display of company products that changes from a more grid-like list to a column list as the page shrinks.
-Create a flexible display of company employees.
-Our example site is not an elaborate use of flexbox–we’re sure you can come up with other uses of flexbox in your layout, such as taking advantage of flex-grow or flex-shrink.
-
-4.
-Your page should also use custom styles for other properties, such as colors, fonts, and other layout properties such as borders and padding.
-
-Our example site uses:
-
-A simple color scheme using CSS named colors, but yours can be more elaborate with hexadecimal, RGB, or HSL colors.
-Fonts from the Google Fonts API.
-Custom images. A great source for project images when you’re practicing web design is Unsplash.
-Get creative! Customizing your site’s look and feel is one of the most exciting parts of building your own websites. You can review any of these other CSS properties in our Learn CSS course.
+Special thanks to Codecademy mentors and the community for their guidance and support.
